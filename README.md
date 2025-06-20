@@ -8,7 +8,7 @@ A new Flutter fashion shopping app with smooth UI and dynamic product views.
 
 ### 🖼️ Screenshot
 
-![Runway App Preview](assets/screenshot.png)
+![Image](https://github.com/user-attachments/assets/814870ff-7fce-44a4-9ea3-4794c4f65131)
 
 > Make sure `assets/screenshot.png` exists in your repo
 
